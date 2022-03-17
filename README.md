@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 email: carlitosmatameza@gmail.com
 
-to donate (https://PayPal.Me/MataMeza)
+To donate (https://PayPal.Me/MataMeza)
 <!---
 carlosmata96/carlosmata96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
